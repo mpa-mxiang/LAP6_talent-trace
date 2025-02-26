@@ -36,7 +36,6 @@ VITE_FIREBASE_APP_ID=your_app_id
 VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id
 
 ```
-
 Variables can also be found within the .env.sample file.
 
 ## Getting Started
